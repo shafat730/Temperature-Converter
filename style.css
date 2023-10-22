@@ -8,11 +8,11 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #176B87;
+    background-color: #D0BFFF;
 }
 .container{
     max-width: 450px;
- background-color: #04364A;
+ background-color: #BEADFA;
  box-sizing: 0px 0px 15px 3px rgba(0, 0, 0, 0.405);
  border-radius: 8px;
  padding: 20px;
